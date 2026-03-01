@@ -1,0 +1,13 @@
+name = "Amethyst"
+author = "ItsPercent"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "57edcc8ae31bfa114e2009f2a9a7305cf8ce9485bb4a6a833c2cca8d8bc9d3be"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"
